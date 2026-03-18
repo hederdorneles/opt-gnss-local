@@ -1,0 +1,21 @@
+{
+  "n_active_baseline": 45,
+  "p_selected": 45,
+  "n_candidates": 659,
+  "n_demand": 6314,
+  "radius_km": 250.0,
+  "grid_deg": 0.5,
+  "min_sep_km": 0.0,
+  "weight_mode": "uniform",
+  "coverage_baseline": 0.20684193854925562,
+  "coverage_optimized": 0.4266708900855242,
+  "covered_weight_baseline": 1306.0,
+  "covered_weight_optimized": 2694.0,
+  "gain_weight": 1388.0,
+  "nearest_baseline_km_mean": 672.2973755792639,
+  "nearest_optimized_km_mean": 426.9286087649015,
+  "nearest_baseline_km_p50": 506.17094176921023,
+  "nearest_optimized_km_p50": 286.2028820911607,
+  "nearest_baseline_km_p90": 1483.259149253246,
+  "nearest_optimized_km_p90": 955.752020464996
+}
